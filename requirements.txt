@@ -1,0 +1,7 @@
+SpeechRecognition 
+pyttsx3
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+websockets
